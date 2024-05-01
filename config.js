@@ -4,7 +4,7 @@ const chalk = require("chalk");
 //to enable function - true
 //to disable function - false
 //
-global.available = false;
+global.available = true;
 global.autoReadGc = false;
 global.autoReadAll = false;
 global.antitags = false;
@@ -14,14 +14,14 @@ global.antitags = false;
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = true;                //make true to enable auto recording
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //make true to view statuses 
+global.statusseen = true;                 //make true to view statuses 
 
 
 //
-global.Owner = [""];
-global.OwnerNumber = [""]; 
-global.ownertag = [""]; 
-global.OwnerName = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
+global.Owner = ["2347064746124"];
+global.OwnerNumber = ["2347064746124"]; 
+global.ownertag = ["2347064746124"]; 
+global.OwnerName = "Êzzƴmøŋǝƴ";
 global.BotName = "🐦Makino-md-v2";
 global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
 global.author = "🐦Makino md ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ";                               //Do not change.
@@ -34,7 +34,7 @@ global.sessionName = "session";                          //Do not change.
 
 
 //
-global.prefa = ["/"];                                    //Default prefix here.
+global.prefa = ["*"];                                    //Default prefix here.
 global.openAiAPI = "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";
 
 
